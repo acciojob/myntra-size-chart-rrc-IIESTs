@@ -1,2 +1,22 @@
-
+table{
+    border-collapse: collapse;
+    border: 1px solid;
+    
+}
+th{
+    border: 1px solid;
+    padding: 10px 20px;
+    height: 1rem;
+    width: max-content;
+    background-color: lightsalmon;
+    text-align: center;
+}
+td{
+    border: 1px solid;
+    padding: 5px;
+    height: 1em;
+    width: max-content;
+    background-color: lightyellow;
+    text-align: center;
+}
 /* Your CSS Code here. */
